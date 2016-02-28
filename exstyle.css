@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+	font-size: 350%;
+	font-weight: bold;
+	text-align:center;
+}
+
+h2 {
+    color: navy;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 130%;
+}
+
+#clay{
+	float:right;
+	padding: 20px; 
+	border: 2px solid #73AD21;
+}
+
+#claytext{
+	font-size: 75%;
+	font-style: italic;
+}
+
+a:link {
+    color: red;
+	text-decoration: none;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
